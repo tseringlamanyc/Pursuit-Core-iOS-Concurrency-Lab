@@ -6,9 +6,9 @@ Create an app that loads a list of countries.  Selecting a country will go to a 
 
 ## Endpoints:
 
-- https://restcountries.eu/rest/v2/name/united
-- http://data.fixer.io/api/latest?access_key=a17aef5ece92cf36d9c5963f7f4babf1&format=1
-- https://www.metaweather.com/api/
+- [Country list](https://restcountries.eu/rest/v2/name/united)
+- [Exchange rates](http://data.fixer.io/api/latest?access_key=a17aef5ece92cf36d9c5963f7f4babf1&format=1)
+- [Weather](https://www.metaweather.com/api/)
  
 
 ## View Controller One:
