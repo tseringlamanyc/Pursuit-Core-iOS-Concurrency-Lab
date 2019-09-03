@@ -38,5 +38,5 @@ An image of the flag
 The detail View Controller should also show the following properties.  You will need to make a different network call to get this information:
 
 - The currency and the currency's value in USD
-- The current weather
+- The current weather in the country's capital
 
